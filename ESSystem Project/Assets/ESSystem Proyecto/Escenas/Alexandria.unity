@@ -158,6 +158,11 @@ Prefab:
       propertyPath: m_RootOrder
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 114392998555292980, guid: 1bd5aa95868fad3418d54e65a3faccff,
+        type: 2}
+      propertyPath: manager
+      value: 
+      objectReference: {fileID: 19556110}
     - target: {fileID: 114101498745357294, guid: 1bd5aa95868fad3418d54e65a3faccff,
         type: 2}
       propertyPath: manager
@@ -230,6 +235,16 @@ Prefab:
       propertyPath: atack
       value: 
       objectReference: {fileID: 149223908}
+    - target: {fileID: 114411701721197558, guid: 72c1c0ee020b8d940838500966389b18,
+        type: 2}
+      propertyPath: vida
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 114411701721197558, guid: 72c1c0ee020b8d940838500966389b18,
+        type: 2}
+      propertyPath: mana
+      value: 10
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 72c1c0ee020b8d940838500966389b18, type: 2}
   m_IsPrefabParent: 0
