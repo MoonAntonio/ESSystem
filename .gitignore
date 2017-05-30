@@ -53,8 +53,10 @@ $RECYCLE.BIN/
 Assets/_Content/GUI
  
 # COPYRIGHTED / ASSET STORE
-{Carpeta proyecto}/Assets/ThirdParty/*
-{Carpeta proyecto}/Assets/ThirdParty.meta
+ESSystem Project/Assets/ThirdParty/*
+ESSystem Project/Assets/ThirdParty.meta
+ESSystem Project/Assets/Plugins/*
+ESSystem Project/Assets/Plugins.meta
  
 # GITEYE
 *.project
